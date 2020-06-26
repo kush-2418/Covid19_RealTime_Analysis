@@ -121,7 +121,6 @@ s3transfer==0.3.3
 scikit-learn==0.23.1
 scipy==1.4.1
 seaborn==0.10.1
-Send2Trash==1.5.0
 sip==4.19.22
 six==1.15.0
 snowballstemmer==2.0.0
