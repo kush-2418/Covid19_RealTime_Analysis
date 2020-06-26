@@ -591,7 +591,7 @@ def main():
 #  Plot Maps   ****************************************************************************'''
      
     def IndiaMapdfMerged(India_data):
-        map_data = gpd.read_file('/Users/kush/Downloads/Covid19/India_geom/Indian_States.shp')
+        map_data = gpd.read_file('India_geom/Indian_States.shp')
         map_data.rename(columns = {'st_nm':'States/UT'}, inplace = True)
         map_data['States/UT'] = map_data['States/UT'].str.replace('&', 'and')
         map_data['States/UT'].replace('Arunanchal Pradesh', 'Arunachal Pradesh', inplace = True)
