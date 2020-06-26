@@ -844,10 +844,10 @@ def main():
 
 
     def tweetAnalyse(tag,time):
-        consumer_key ='djhTsqoKfTpL1copeb8QO904U'
-        consumer_secret = '9FAxaIGeIVHEXuXJiVKdDZZurPBsiKPsH7pPkYXcYoXOc39VMx'
-        access_token ='492233591-l0MtoDBAcJDin897QgS6njrqW0FaCvXVADa2T0zA'
-        access_token_secret = 'of3OcbhlMHqIkz34WKrjUlP6sUfI5WZKgDcVoZkxz1U0J'
+        consumer_key = # insert your key
+        consumer_secret = # insert your key
+        access_token =# insert your token
+        access_token_secret = # insert your token
         def clean_tweet(tweet): 
             return ' '.join(re.sub("(RT @[\w]*)|(@[A-Za-z0-9]+)|([^0-9A-Za-z \t]) |(\w+:\/\/\S+)", " ", tweet).split())
         
