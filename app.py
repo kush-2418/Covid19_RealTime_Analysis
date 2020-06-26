@@ -1206,8 +1206,9 @@ def main():
     
     else:
             pass
-        
+    st.markdown("<body style='background-color:white;'><h2 style='text-align: center; color: RED;'>*********Created by KUSH SHRIVASTAVA*******<h2></body>", unsafe_allow_html=True)
 # END OF CODE ****************************************************************************'''
+
 
                 
 if __name__== '__main__':
