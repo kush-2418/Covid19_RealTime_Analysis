@@ -125,7 +125,7 @@ def main():
      
     def convertWorldFrame(covid_df):
         def conve_to_int(i):
-             i = i.strip('+')
+             i = i.strip('+') 
              i = int(i)
              return i
     
