@@ -10,10 +10,7 @@
 
 <a name="overview"></a>
 ### Overview
-This Covid19 Real Time Case Analysis project web scraps real time data, make visualizations and perform analysis regarding the COVID-19 epidemic. 
-The project plots bar charts, pie charts, percentage charts and Maps with highest number of Covid19 cases, recovered cases, death cases, cured cases, total tests and new cases.
-The project also consists of Tweet analyser which shows the number of positive and negative tweets along with top hashtags, mentions and word cloud. The real time Hindi newspaper headlines are also displayed by the project.
-The project is divided into 5 phases:
+This Covid19 Real Time Case Analysis project web scraps real time data, makes visualizations and performs analysis regarding the COVID-19 epidemic. The project plots bar charts, pie charts, percentage charts and Maps with the highest number of Covid19 cases, recovered cases, death cases, cured cases, total tests and new cases. The project also consists of a Tweet analyser which shows the number of positive and negative tweets along with top hashtags, mentions and word cloud. The real time Hindi newspaper headlines are also displayed by the project. The project is divided into 5 phases:
 
 #### Activities
 
