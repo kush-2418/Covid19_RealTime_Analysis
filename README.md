@@ -15,7 +15,7 @@ This Covid19 Real Time Case Analysis project web scraps real time data, makes vi
 #### Activities
 
 1. [ Covi19 Worldwide Analysis ](#world)
-2. [ Covid1 Continent wise Analysis ](#continent)
+2. [ Covid19 Continent wise Analysis ](#continent)
 3. [ Covid19 India wise Analysis ](#India)
 4. [ Tweet Analyser ](#tweet)
 5. [ Indian Newspaper Headlines ](#news)
